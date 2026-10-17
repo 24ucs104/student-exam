@@ -1,4 +1,6 @@
+*.env
 *.tmp
 *.temp
+*/env
 */tmp
 */unnecessary
